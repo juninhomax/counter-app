@@ -1,0 +1,3 @@
+agents:
+  browser:
+    entrypoint: agents/run_browser.py
