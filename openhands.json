@@ -1,0 +1,10 @@
+{
+    "name": "Counter App",
+    "type": "web",
+    "description": "A simple counter app with HTML, CSS, and JavaScript",
+    "entryPoint": "index.html",
+    "port": "40204",
+    "serveCommand": "python3 -m http.server 40204 --bind 0.0.0.0",
+    "workingDirectory": "/workspace/project/counter-app"
+  }
+  
