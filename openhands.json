@@ -5,6 +5,7 @@
     "entryPoint": "index.html",
     "port": "40204",
     "serveCommand": "python3 -m http.server 40204 --bind 0.0.0.0",
-    "workingDirectory": "/workspace/project/counter-app"
+    "workingDirectory": "/workspace/project/counter-app",
+    "runOnApplicationTab": true
   }
   
